@@ -27,7 +27,7 @@ BookBind API is a RESTful service designed to support bookstore applications. It
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/BookBindAPI.git
+   git clone https://github.com/Jay-Bhalala/BookBindAPI.git
    cd BookBindAPI
 
 2. Create and activate a virtual environment & install the requirements:

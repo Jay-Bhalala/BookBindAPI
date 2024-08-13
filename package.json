@@ -1,0 +1,20 @@
+{
+  "name": "bookbindapi",
+  "version": "1.0.0",
+  "description": "## Overview BookBind API is a RESTful service designed to support bookstore applications. It features over 30 endpoints that allow for the creation of new orders, updating user profiles, modifying book reviews, and more. This project utilizes Python with Flask for the server-side logic, MongoDB for the database, and JWT for secure authentication.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.3",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
